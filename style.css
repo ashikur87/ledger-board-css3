@@ -85,7 +85,7 @@ main{
 .container{
     background-color: white;
     width: 870px;
-    padding-top: 100px;
+    padding: 30px;
     border-radius: 5px;
     margin-top: 21px;
 }
